@@ -1,4 +1,1 @@
----
-layout: forward
-target: https://onnkek.github.io/planner
----
+[PLANNER](https://onnkek.github.io/planner/)
